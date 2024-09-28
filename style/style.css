@@ -1,0 +1,88 @@
+.f-input{
+    width: 14%;
+    padding: 2px;
+    font-size: small;
+}
+.s-input{
+    width: 14%;
+    padding: 2px;
+    font-size: small;
+}
+.btn{
+    background-color:  rgb(4, 175, 242);
+    color: white;
+    border: none;
+    padding: 10px;
+    text-align: center;
+    margin-right: 30px;
+    width: 250px;
+
+}
+.f-span{
+    margin-right: 5px;
+    margin-left: 3px;
+}
+.triangle{
+    background-color: white;
+    box-shadow: aliceblue;
+    width: 90%;
+    margin-left: 40px;
+    box-shadow: 0px 0px 1px;
+    width: 350px;
+    height: 500px;
+    margin-top: 5px;
+}
+.shape-container{
+    display: flex;
+}
+.top-div{
+    display: flex;
+}
+.h4{
+    border-radius: 2px;
+    box-shadow: 0px 0px 1px;
+    width: 310px;
+    height: 400px;
+    text-align: center;
+    text-decoration: underline;
+    margin-left: 30px;
+}
+.top{
+    margin-top: 30px;
+    margin-left: 70px;
+}
+.img{
+    margin-top: 30px;
+    margin-left: 35px;
+
+}
+.navbar{
+    display: flex;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+    background-color: rgb(216, 225, 241);
+}
+.h1{
+   margin-left: 40px;
+}
+.btm{
+    margin-right: 40px;
+    width: 90px;
+    height: 40px;
+    background-color: rgb(4, 175, 242);
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+}
+.btn3{
+    background-color: rgb(4, 175, 242);
+    color: white;
+    border: none;
+    padding: 10px;
+    text-align: center;
+    margin-left: 30px;
+    width: 250px;
+
+}
